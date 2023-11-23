@@ -12,3 +12,8 @@ var a=10;
 var b=20;
 console.log(a+b);
 ```
+- [x] wake up early morning
+- [x] drink gallon of water 3000 ml
+- [x] read 10 pages
+- [ ] 2 workout outdoor and indoor
+- [x] write 1000 lines code
